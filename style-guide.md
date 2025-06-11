@@ -15,7 +15,7 @@ The designs were created to the following widths:
 
 - Light red: hsl(0, 100%, 67%)
 - Orangey yellow: hsl(39, 100%, 56%)
-- Green teal: hsl(166, 100%, 37%)
+- Green teal: rgb(0, 189, 145)
 - Cobalt blue: hsl(234, 85%, 45%)
 
 ## Gradients
@@ -24,7 +24,7 @@ The designs were created to the following widths:
 - Light royal blue (background): rgb(46, 43, 233)
 
 - Violet blue (circle): hsla(256, 72%, 46%, 1)
-- Persian blue (circle): hsla(241, 72%, 46%, 0)
+- Persian blue (circle): rgba(36, 33, 202, 0)
 
 
 
