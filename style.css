@@ -68,7 +68,7 @@
   }
   .result-boxes .icon-reaction{
     color: red;
-    background-color: rgba(255, 0, 0, 0.15);
+    background-color: rgba(255, 0, 0, 0.107);
   }
   .result-boxes .icon-memory{
     color: rgb(4, 177, 4);
@@ -95,7 +95,7 @@
     align-items: center;
     font-size: 13px;
     font-weight: bold;
-    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.324);
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.105);
     margin: 20px 0;
   }
   .result-boxes span {
@@ -121,7 +121,7 @@
     gap: 10px;
   }
   .mainwrap {
-    background-color: white;
+    background-color: aliceblue;
     display: inline-flex;
     border-radius: 20px;
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.293);
